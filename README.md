@@ -83,18 +83,3 @@ Performance was assessed using:
 The best-performing models successfully identified fake news with high accuracy. The project also includes a manual sample test to demonstrate real-world application.
 
 ---
-
-## 👨‍💻 Internship
-
-This project was completed as part of my internship at **Pinnacle Labs**.
-
----
-
-## 📎 How to Run
-
-1. Clone the repository  
-2. Open `Fake_News_Detection.ipynb` in Jupyter Notebook  
-3. Run all cells in order  
-4. You can edit or add manual samples in the last section for testing
-
----
