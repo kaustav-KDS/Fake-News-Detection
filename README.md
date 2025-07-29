@@ -41,9 +41,10 @@ A new column `class` is added for labeling:
 
 ---
 
-## 🧪 IDE
+## 🧪 Environment
 
-- **Jupyter Notebook**
+- Developed using **Jupyter Notebook** (interactive development environment for data science and ML workflows)
+
 
 ---
 
